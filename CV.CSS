@@ -1,0 +1,139 @@
+
+
+hr.light{
+    border-top: 2px solid #13c3ba;
+    width: 45%;
+    margin-top: .8rem;
+    margin-bottom: 1rem;
+   margin-left: 0%;
+}
+
+main {
+    box-shadow: 30px 0px 40px rgb(196, 196, 196), -30px 0px 40px rgb(196, 196, 196);
+    margin: auto;
+    max-width: 900px;
+}
+
+.photo {
+    margin-left: 7%;
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+    overflow: hidden;
+}
+.des{
+    margin-left: 33%;
+    margin-top: -15%;
+}   
+.des h3{
+    color: white;
+    font-weight: bold;
+    letter-spacing: .1rem;
+    font-size: 20px;
+    margin-left: 0%;
+}
+
+.post{
+    color: orange;
+    font-weight: bold;
+    letter-spacing: .1rem;
+}
+
+.right p{
+    margin-left: 600px;
+    letter-spacing: .2rem;  
+    
+ }
+ .info{
+     width: 25px;
+     height: 25px;
+ }
+
+ .right {
+    margin-top: -12%;
+ }
+
+ .dic{
+    margin-top: 7%;
+    margin-left: 5%;
+ }
+ .dic h3{
+    margin-top: 5%;
+ }
+
+ h3{
+    margin-left: 10%;
+    color: #13c3ba;
+    letter-spacing: .1rem;
+    font-size: 18px;
+}
+.dim{
+    margin-top: 3%;
+    margin-left: 3%;
+}
+.div{
+    margin-top: 3%;
+    margin-left: 3%;
+}
+.Atouts{
+    
+    margin-left: 3%;
+}
+hr.lighte{
+    border-top: 2px solid #13c3ba;
+    width: 47%;
+    margin-top: .8rem;
+    margin-bottom: 1rem;
+   margin-left: -3%;
+}
+
+header {
+    height: 160px;
+    padding-top: 10px;
+    color: white;
+    background-color: rgb(12, 151, 147);
+}
+
+.section-left{
+    background-color: white;
+    
+}
+.section-right{
+    background-color: white;
+position: absolute;
+top: 51%;
+  right: 16%;
+}
+hr.lighti{
+    border-top: 2px solid #13c3ba;
+    width: 108%;
+    margin-top: .8rem;
+    margin-bottom: 1rem;
+   margin-left: -3%; 
+}
+.skls {
+    padding: 0px;
+    width: 40%;
+    margin-left: 10%
+}
+.cooli {
+    background-color: #fff;
+    border: 2px solid #ccc;
+    width: 300px;
+    height: 7px;
+}
+
+.po {
+    margin-top: 20px;
+}
+.inner {
+    height: 100%;
+    background-color:  orange;
+}
+hr.ligh{
+    border-top: 2px solid #13c3ba;
+    width: 109%;
+    margin-top: .8rem;
+    margin-bottom: 1rem;
+   margin-left: -3%
+}
